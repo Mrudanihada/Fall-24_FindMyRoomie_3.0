@@ -301,11 +301,9 @@ Our current release does not provide you with a mechanism to remove your data di
 
 
 ## Contact us:
-M M Abid Naziri - mnaziri@ncsu.edu </br>
-Nikhil Mehra - nmehra2@ncsu.edu </br> 
-Bella Samuelsson - insamuel@ncsu.edu </br>
-Parth Katlana - pkatlan@ncsu.edu </br>
-Heidi Reichert - hreiche@ncsu.edu </br>
+Mrudani Hada - mhada2@ncsu.edu </br>
+Parth Parikh - pparikh2@ncsu.edu </br> 
+Jamnesh Patel - jpatel42@ncsu.edu </br>
 
 ## License:
 Distributed under the MIT License. See `LICENSE` for more information
@@ -317,6 +315,6 @@ Feel free to reach out to us in case you encounter issues in the software, for e
 
 <a href = "https://github.com/rohitgeddam/FindMyRoomie/discussions">  
 
-<a href = "mailto:ncsu.findmyroomie_2.0@gmail.com">
+<a href = "mailto:ncsu.findmyroomie_3.0@gmail.com">
 <img width = "35px" src = "https://user-images.githubusercontent.com/73664200/194786335-12b1d3a6-b272-4896-9bd7-d615e28847f3.png"/>
 </a>
